@@ -23,7 +23,20 @@
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
             "#300C14"
         ],
+        
         "BUTTON_OUTLINE_PRIMARY_BORDER": [
+            "#B27989"
+        ],
+        "REDEISGN_BUTTON_PRIMARY_BORDER": [
+            "#B27989"
+        ],
+        "REDEISGN_BUTTON_PRIMARY_ALT_BORDER": [
+            "#B27989"
+        ],
+        "REDEISGN_BUTTON_SECONDARY_BORDER": [
+            "#B27989"
+        ],
+        "REDEISGN_BUTTON_SECCONDARY_ALT_BORDER": [
             "#B27989"
         ],
         "BUTTON_OUTLINE_SECONDARY_BORDER": [
