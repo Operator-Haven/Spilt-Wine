@@ -54,7 +54,7 @@
             "#300C14"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#410210"
+            "#3D101A"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#15100d"
@@ -118,7 +118,7 @@
         "PRIMARY_600": "#300C14",
         "PRIMARY_630": "#58101E",
         "PRIMARY_660": "#3C161C",
-        "PRIMARY_700": "#3F171E",
+        "PRIMARY_700": "#3C161C",
         "PRIMARY_800": "#5B0F1E",
         "BRAND_260": "#9B3E55",
         "BRAND_360": "#B40D2F",
