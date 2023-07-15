@@ -20,6 +20,12 @@
         "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
             "#9B3E55"
         ],
+        "REDESIGN_BUTTON_PRIMARY_BORDER": [
+            "#B27989"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BORDER": [
+            "#B27989"
+        ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
             
             "#9B3E55"
