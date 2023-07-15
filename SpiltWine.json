@@ -75,28 +75,25 @@
             "#5B1824"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#26273b"
+            "#4C0B18"
         ],
         "SCROLLBAR_THIN_TRACK": [
-            "transparent"
+            "#B40D2F"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#DAC0B3"
+            "#440C17"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#DAC0B3"
-        ],
-        "CHANNELTEXTAREA_BACKGROUND": [
-            "#372E29"
+            "#3D0D16"
         ],
         "CHANNELS_DEFAULT": [
-            "##CAB1FA"
+            "#D95574"
         ],
         "TEXT_LINK": [
-            "#9E8376"
+            "#B27989"
         ],
         "TEXT_DANGER": [
-            "#503E38"
+            "#3B282B"
         ],
         "KEYBOARD": [
             "#110D0A"
