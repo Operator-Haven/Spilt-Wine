@@ -39,6 +39,9 @@
         "TEXT_MUTED": [
             "#50242A"
         ],
+        "TEXT_POSTIIVE": [
+            "#B40D2F"
+        ],
         "INTERACTIVE_NORMAL": [
             "#9B3E55"
         ],
