@@ -14,6 +14,9 @@
         "HEADER_SECONDARY": [
             "#D95574"
         ],
+        "ACTIVITY_CARD_BACKGROUND": [
+            "#7A323E"
+        ],
         "TEXT_NORMAL": [
             "#a24755"
         ],
