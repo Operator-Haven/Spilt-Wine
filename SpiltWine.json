@@ -48,19 +48,19 @@
             "#3D101A"
         ],
         "BACKGROUND_FLOATING": [
-            "#15100d"
+            "#4A1721"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#15100d"
+            "#300C14"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#15100d"
+            "#110407"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#15100d"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#322720"
+            "#3E2429"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
             "#322720"
@@ -102,10 +102,10 @@
             "#110D0A"
         ],
         "CHANNEL_ICON": [
-            "#EFDFD7"
+            "#7A323E"
         ],
         "CHAT_BACKGROUND": [
-            "#110D0A"
+            "#20080D"
         ]
    },
        "rawColors": {
