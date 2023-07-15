@@ -90,7 +90,7 @@
             "#372E29"
         ],
         "CHANNELS_DEFAULT": [
-            "#9E8376"
+            "##CAB1FA"
         ],
         "TEXT_LINK": [
             "#9E8376"
@@ -122,7 +122,7 @@
         "PRIMARY_800": "#5B0F1E",
         "BRAND_260": "#9B3E55",
         "BRAND_360": "#B40D2F",
-        "BRAND_500": "#300C14",
+        "BRAND_500": "#110407",
         "BRAND_560": "#B43549",
         "YELLOW_300": "#ffffff",
         "GREEN_600": "#ffffff",
