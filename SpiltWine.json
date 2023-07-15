@@ -59,7 +59,6 @@
         "BACKGROUND_NESTED_FLOATING": [
             "#15100d"
         ],
-       
         "BACKGROUND_MESSAGE_HOVER": [
             "#322720"
         ],
@@ -108,8 +107,8 @@
         "CHAT_BACKGROUND": [
             "#110D0A"
         ]
-    },
-    "rawColors": {
+   },
+       "rawColors": {
         "PRIMARY_500": "#9E8376",
         "PRIMARY_100": "#EFDFD7",
         "PRIMARY_200": "#F4EAE5",
@@ -129,7 +128,7 @@
         "GREEN_600": "#EFDFD7",
         "RED_400": "#9E8376",
         "WHITE_500": "#EFDFD7",
-        "GREEN_360": "#503E38",
+        "GREEN_360": "#503E38"
     },
     "spec": 2
 }
