@@ -26,6 +26,9 @@
         "REDESIGN_ONLY_BACKGROUND_ACTIVE": [
             "#B40D2F"
         ],
+        "REDESIGN_BUTTON_POSITIVE_TEXT": [
+            "#B40D2F"
+        ],
         
         "TEXT_NORMAL": [
             "#a24755"
