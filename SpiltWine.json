@@ -15,10 +15,13 @@
             "#D95574"
         ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-            "#300C14"
+            "#20080D"
         ],
         "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
-            "#9B3E55"
+            "#300C14"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#300C14"
         ],
         "REDESIGN_BUTTON_PRIMARY_BORDER": [
             "#B27989"
@@ -26,10 +29,7 @@
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
             "#B27989"
         ],
-        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            
-            "#9B3E55"
-        ],
+        
         "TEXT_NORMAL": [
             "#a24755"
         ],
