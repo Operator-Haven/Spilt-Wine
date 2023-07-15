@@ -20,6 +20,9 @@
         "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
             "#7A323E"
         ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#7A323E"
+        ],
         "TEXT_NORMAL": [
             "#a24755"
         ],
